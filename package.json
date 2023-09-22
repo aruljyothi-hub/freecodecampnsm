@@ -3,8 +3,11 @@
 	"author": "arul",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "datavisualization", "api" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name":" @freecodecamp/example "	
+		"express": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
